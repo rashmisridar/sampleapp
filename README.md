@@ -1,4 +1,4 @@
-# employee_record
+# sample app
 
 A new Flutter project.
 
